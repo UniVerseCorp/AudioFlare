@@ -1,0 +1,22 @@
+<svg width="512" height="512" viewBox="0 0 300 300" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background Circle -->
+  <circle cx="150" cy="150" r="150" fill="#FF4500" stroke="#FFFFFF" stroke-width="10"/>
+
+  <!-- Animated Sinewave -->
+  <path id="sinewave" d="M 20 150 Q 45 100, 70 150 T 120 150 T 170 150 T 220 150 T 270 150" stroke="#FFFFFF" stroke-width="6" fill="none">
+    <animate attributeName="d" values="
+      M 20 150 Q 45 100, 70 150 T 120 150 T 170 150 T 220 150 T 270 150;
+      M 20 150 Q 45 125, 70 150 T 120 150 T 170 150 T 220 150 T 270 150;
+      M 20 150 Q 45 150, 70 150 T 120 150 T 170 150 T 220 150 T 270 150;
+      M 20 150 Q 45 175, 70 150 T 120 150 T 170 150 T 220 150 T 270 150;
+      M 20 150 Q 45 150, 70 150 T 120 150 T 170 150 T 220 150 T 270 150;
+      M 20 150 Q 45 125, 70 150 T 120 150 T 170 150 T 220 150 T 270 150;
+      M 20 150 Q 45 100, 70 150 T 120 150 T 170 150 T 220 150 T 270 150"
+      dur="1s" repeatCount="indefinite"/>
+  </path>
+
+  <!-- Text "AudioFlare" -->
+  <text x="50%" y="250" text-anchor="middle" font-family="Arial" font-size="36" fill="#FFFFFF" font-weight="bold" letter-spacing="2">
+    AudioFlare
+  </text>
+</svg>
