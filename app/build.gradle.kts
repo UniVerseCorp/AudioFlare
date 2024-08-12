@@ -8,6 +8,7 @@ plugins {
     alias(libs.plugins.hilt.android)
     alias(libs.plugins.ksp)
     alias(libs.plugins.aboutlibraries)
+    id("com.google.gms.google-services")
 }
 
 android {
@@ -300,6 +301,9 @@ dependencies {
     implementation(libs.insetsx)
 
     coreLibraryDesugaring(libs.desugaring)
+    //Firebase
+    implementation(platform("com.google.firebase:firebase-bom:33.1.2"))
+    implementation("com.google.firebase:firebase-analytics")
 }
 hilt {
     enableAggregatingTask = true
