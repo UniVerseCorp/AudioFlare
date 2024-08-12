@@ -1,6 +1,7 @@
 
 <div align="center">
-	<img src="https://raw.githubusercontent.com/UniVerseCorp/SimpMusic/jetpack_compose/fastlane/metadata/android/en-US/images/featureGraphic.png">
+	<img src="asset/svgviewer-output.svg" style="width: 256px; height: 256px;">
+
 <h1>AudioFlare</h1>A FOSS YouTube Music client for Android with many features from<br>Spotify, Musixmatch, SponsorBlock, ReturnYouTubeDislike<br>
 <br>
 <a href="https://github.com/UniVerseCorp/SimpMusic/releases"><img src="https://img.shields.io/github/v/release/UniVerseCorp/SimpMusic"></a>
@@ -43,21 +44,21 @@
 ## Screenshots
 
 <p align="center">  
-  <img src="https://github.com/UniVerseCorp/SimpMusic/blob/jetpack_compose/asset/screenshot/2.png?raw=true" width="200" />  
-  <img src="https://github.com/UniVerseCorp/SimpMusic/blob/jetpack_compose/asset/screenshot/3.png?raw=true" width="200" />  
-   <img src="https://github.com/UniVerseCorp/SimpMusic/blob/jetpack_compose/asset/screenshot/4.png?raw=true" width="200" />  
-   <img src="https://github.com/UniVerseCorp/SimpMusic/blob/jetpack_compose/asset/screenshot/5.png?raw=true" width="200" />  
+  <img src="https://github.com/UniVerseCorp/AudioFlare/blob/jetpack_compose/asset/screenshot/2.png?raw=true" width="200" />  
+  <img src="https://github.com/UniVerseCorp/AudioFlare/blob/jetpack_compose/asset/screenshot/3.png?raw=true" width="200" />  
+   <img src="https://github.com/UniVerseCorp/AudioFlare/blob/jetpack_compose/asset/screenshot/4.png?raw=true" width="200" />  
+   <img src="https://github.com/UniVerseCorp/AudioFlare/blob/jetpack_compose/asset/screenshot/5.png?raw=true" width="200" />  
 </p>  
 <p align="center">  
-  <img src="https://github.com/UniVerseCorp/SimpMusic/blob/jetpack_compose/asset/screenshot/6.png?raw=true" width="200" />  
-  <img src="https://github.com/UniVerseCorp/SimpMusic/blob/jetpack_compose/asset/screenshot/7.png?raw=true" width="200" />  
-   <img src="https://github.com/UniVerseCorp/SimpMusic/blob/jetpack_compose/asset/screenshot/8.png?raw=true" width="200" />  
-   <img src="https://github.com/UniVerseCorp/SimpMusic/blob/jetpack_compose/asset/screenshot/9.png?raw=true" width="200" />  
+  <img src="https://github.com/UniVerseCorp/AudioFlare/blob/jetpack_compose/asset/screenshot/6.png?raw=true" width="200" />  
+  <img src="https://github.com/UniVerseCorp/AudioFlare/blob/jetpack_compose/asset/screenshot/7.png?raw=true" width="200" />  
+   <img src="https://github.com/UniVerseCorp/AudioFlare/blob/jetpack_compose/asset/screenshot/8.png?raw=true" width="200" />  
+   <img src="https://github.com/UniVerseCorp/AudioFlare/blob/jetpack_compose/asset/screenshot/9.png?raw=true" width="200" />  
 </p> 
 <p align="center">  
-  <img src="https://github.com/UniVerseCorp/SimpMusic/blob/jetpack_compose/asset/screenshot/10.png?raw=true" width="200" />  
-  <img src="https://github.com/UniVerseCorp/SimpMusic/blob/jetpack_compose/asset/screenshot/11.png?raw=true" width="200" /> 
-  <img src="https://github.com/UniVerseCorp/SimpMusic/blob/jetpack_compose/asset/screenshot/12.png?raw=true" width="200" /> 
+  <img src="https://github.com/UniVerseCorp/AudioFlare/blob/jetpack_compose/asset/screenshot/10.png?raw=true" width="200" />  
+  <img src="https://github.com/UniVerseCorp/AudioFlare/blob/jetpack_compose/asset/screenshot/11.png?raw=true" width="200" /> 
+  <img src="https://github.com/UniVerseCorp/AudioFlare/blob/jetpack_compose/asset/screenshot/12.png?raw=true" width="200" /> 
 </p>  
 
 #### More [screenshot](https://photos.app.goo.gl/AbieoXG5ctDrpwzp7) here.
@@ -82,7 +83,7 @@ see [this](https://github.com/UniVerseCorp/SimpMusic/blob/13f7ab6e5fa521b62a9fd3
 ## Translation
 
 [![Crowdin](https://badges.crowdin.net/simpmusic/localized.svg)](https://crowdin.com/project/simpmusic)  
-You can help me translate this app into your language by using Crowdin [SimpMusic on Crowdin](https://crowdin.com/project/simpmusic)
+You can help me translate this app into your language by using Crowdin [AudioFlare on Crowdin](https://crowdin.com/project/simpmusic)
 
 <details>
 
@@ -153,7 +154,7 @@ Simply, because I love this name. It's a combination of Simple and Music. But Au
 
 ### [UniVerseCorp](https://github.com/UniVerseCorp/AudioFlare): Founder/Developer/Designer 
 
-### [Owen Connor](https://github.com/owencz1998): Discord Server Admin. 
+### [E-Mail](mailto:rpsatyam05@gmail.com): Satyam Singh Raghuvanshi. 
 
 ## Support & Donations
 <div align="left">
@@ -163,7 +164,4 @@ Simply, because I love this name. It's a combination of Simple and Music. But Au
 &nbsp;
 <br>
 <a href="https://www.buymeacoffee.com/universe"><img alt="Buy me a Coffee" height="50" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/donate/buymeacoffee-singular_vector.svg"></a>
-&nbsp;
-<a href="https://liberapay.com/universe/"><img alt="liberapay" height="50"
-src="https://raw.githubusercontent.com/liberapay/liberapay.com/master/www/assets/liberapay/logo-v2_black-on-yellow.svg"></a>
-</div>
+
