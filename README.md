@@ -12,8 +12,8 @@
 <a href="https://f-droid.org/en/packages/com.universe.audioflare/"><img src="https://fdroid.gitlab.io/artwork/badge/get-it-on.png" height="80"></a>
 <a href="https://github.com/UniVerseCorp/SimpMusic/releases"><img src="https://raw.githubusercontent.com/NeoApplications/Neo-Backup/034b226cea5c1b30eb4f6a6f313e4dadcbb0ece4/badge_github.png" height="80"></a>
 <h3>Nightly Build<h3>
-<a href="https://nightly.link/UniVerseCorp/SimpMusic/workflows/android/jetpack_compose/app.zip"><img src="https://github.com/UniVerseCorp/SimpMusic/actions/workflows/android.yml/badge.svg"></a><br/>
-<a href="https://nightly.link/UniVerseCorp/SimpMusic/workflows/android/jetpack_compose/app.zip"><img src="https://raw.githubusercontent.com/NeoApplications/Neo-Backup/034b226cea5c1b30eb4f6a6f313e4dadcbb0ece4/badge_github.png" height="80"></a>
+<a href="https://nightly.link/UniVerseCorp/SimpMusic/workflows/android/main/app.zip"><img src="https://github.com/UniVerseCorp/SimpMusic/actions/workflows/android.yml/badge.svg"></a><br/>
+<a href="https://nightly.link/UniVerseCorp/SimpMusic/workflows/android/main/app.zip"><img src="https://raw.githubusercontent.com/NeoApplications/Neo-Backup/034b226cea5c1b30eb4f6a6f313e4dadcbb0ece4/badge_github.png" height="80"></a>
 </div>
 	
 ## Features ✨️
@@ -44,21 +44,21 @@
 ## Screenshots
 
 <p align="center">  
-  <img src="https://github.com/UniVerseCorp/AudioFlare/blob/jetpack_compose/asset/screenshot/2.png?raw=true" width="200" />  
-  <img src="https://github.com/UniVerseCorp/AudioFlare/blob/jetpack_compose/asset/screenshot/3.png?raw=true" width="200" />  
-   <img src="https://github.com/UniVerseCorp/AudioFlare/blob/jetpack_compose/asset/screenshot/4.png?raw=true" width="200" />  
-   <img src="https://github.com/UniVerseCorp/AudioFlare/blob/jetpack_compose/asset/screenshot/5.png?raw=true" width="200" />  
+  <img src="https://github.com/UniVerseCorp/AudioFlare/blob/main/asset/screenshot/2.png?raw=true" width="200" />  
+  <img src="https://github.com/UniVerseCorp/AudioFlare/blob/main/asset/screenshot/3.png?raw=true" width="200" />  
+   <img src="https://github.com/UniVerseCorp/AudioFlare/blob/main/asset/screenshot/4.png?raw=true" width="200" />  
+   <img src="https://github.com/UniVerseCorp/AudioFlare/blob/main/asset/screenshot/5.png?raw=true" width="200" />  
 </p>  
 <p align="center">  
-  <img src="https://github.com/UniVerseCorp/AudioFlare/blob/jetpack_compose/asset/screenshot/6.png?raw=true" width="200" />  
-  <img src="https://github.com/UniVerseCorp/AudioFlare/blob/jetpack_compose/asset/screenshot/7.png?raw=true" width="200" />  
-   <img src="https://github.com/UniVerseCorp/AudioFlare/blob/jetpack_compose/asset/screenshot/8.png?raw=true" width="200" />  
-   <img src="https://github.com/UniVerseCorp/AudioFlare/blob/jetpack_compose/asset/screenshot/9.png?raw=true" width="200" />  
+  <img src="https://github.com/UniVerseCorp/AudioFlare/blob/main/asset/screenshot/6.png?raw=true" width="200" />  
+  <img src="https://github.com/UniVerseCorp/AudioFlare/blob/main/asset/screenshot/7.png?raw=true" width="200" />  
+   <img src="https://github.com/UniVerseCorp/AudioFlare/blob/main/asset/screenshot/8.png?raw=true" width="200" />  
+   <img src="https://github.com/UniVerseCorp/AudioFlare/blob/main/asset/screenshot/9.png?raw=true" width="200" />  
 </p> 
 <p align="center">  
-  <img src="https://github.com/UniVerseCorp/AudioFlare/blob/jetpack_compose/asset/screenshot/10.png?raw=true" width="200" />  
-  <img src="https://github.com/UniVerseCorp/AudioFlare/blob/jetpack_compose/asset/screenshot/11.png?raw=true" width="200" /> 
-  <img src="https://github.com/UniVerseCorp/AudioFlare/blob/jetpack_compose/asset/screenshot/12.png?raw=true" width="200" /> 
+  <img src="https://github.com/UniVerseCorp/AudioFlare/blob/main/asset/screenshot/10.png?raw=true" width="200" />  
+  <img src="https://github.com/UniVerseCorp/AudioFlare/blob/main/asset/screenshot/11.png?raw=true" width="200" /> 
+  <img src="https://github.com/UniVerseCorp/AudioFlare/blob/main/asset/screenshot/12.png?raw=true" width="200" /> 
 </p>  
 
 #### More [screenshot](https://photos.app.goo.gl/AbieoXG5ctDrpwzp7) here.
