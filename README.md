@@ -162,3 +162,5 @@ Simply, because I love this name. It's a combination of Simple and Music. But Au
 <br>
 <a href="https://www.buymeacoffee.com/universe"><img alt="Buy me a Coffee" height="50" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/donate/buymeacoffee-singular_vector.svg"></a>
 
+![](https://api.visitorbadge.io/api/VisitorHit?user=universecorp&repo=AudioFlare&countColor=%237B1E7A)
+
