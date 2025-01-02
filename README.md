@@ -45,13 +45,11 @@
 <p align="center">  
   <img src="https://github.com/UniVerseCorp/AudioFlare/blob/main/asset/screenshot/2.png?raw=true" width="200" />  
   <img src="https://github.com/UniVerseCorp/AudioFlare/blob/main/asset/screenshot/3.png?raw=true" width="200" />  
-   <img src="https://github.com/UniVerseCorp/AudioFlare/blob/main/asset/screenshot/4.png?raw=true" width="200" />  
-   <img src="https://github.com/UniVerseCorp/AudioFlare/blob/main/asset/screenshot/5.png?raw=true" width="200" />  
+   <img src="https://github.com/UniVerseCorp/AudioFlare/blob/main/asset/screenshot/4.png?raw=true" width="200" />    
 </p>  
 <p align="center">  
   <img src="https://github.com/UniVerseCorp/AudioFlare/blob/main/asset/screenshot/6.png?raw=true" width="200" />  
   <img src="https://github.com/UniVerseCorp/AudioFlare/blob/main/asset/screenshot/7.png?raw=true" width="200" />  
-   <img src="https://github.com/UniVerseCorp/AudioFlare/blob/main/asset/screenshot/8.png?raw=true" width="200" />  
    <img src="https://github.com/UniVerseCorp/AudioFlare/blob/main/asset/screenshot/9.png?raw=true" width="200" />  
 </p> 
 <p align="center">  
@@ -60,7 +58,7 @@
   <img src="https://github.com/UniVerseCorp/AudioFlare/blob/main/asset/screenshot/12.png?raw=true" width="200" /> 
 </p>  
 
-#### More [screenshot](https://photos.app.goo.gl/AbieoXG5ctDrpwzp7) here.
+<!--#### More [screenshot](https://photos.app.goo.gl/AbieoXG5ctDrpwzp7) here.-->
 
 ## Data
 
